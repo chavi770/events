@@ -1,0 +1,75 @@
+
+[
+    {
+        "title":"Cinderella",
+        "description":"Is a folk tale with thousands of variants throughout the world.",
+        "author":" Brothers Grimm",
+        "genre":"Children",
+        "numOfPages":50,
+        "price":80,
+        "yearOfPublication":1697
+    },
+    {
+        "title":"Harry Potter",
+        "description":"Is a series of seven fantasy novels",
+        "author":"J. K. Rowling",
+        "genre":"Fantasy",
+        "numOfPages":300,
+        "price":95,
+        "yearOfPublication":1965
+    },
+    {
+        "title":"Puss in Boots",
+        "description":"Fairy tale about an anthropomorphic cat who uses trickery and deceit to gain power",
+        "author":"Giovanni Francesco",
+        "genre":"Children",
+        "numOfPages":20,
+        "price":50,
+        "yearOfPublication":1698
+    },
+    {
+        "title":"Drama Story",
+        "description":"Its a good drama story",
+        "author":"Daniel Stil",
+        "genre":"Drama",
+        "numOfPages":400,
+        "price":80,
+        "yearOfPublication":2010
+    },
+    {
+        "title":"Fantasy Story",
+        "description":"Its a good fantasy story",
+        "author":"Mikle",
+        "genre":"Fantasy",
+        "numOfPages":200,
+        "price":70,
+        "yearOfPublication":2015
+    },
+    {
+        "title":"Children Book",
+        "description":"For children",
+        "author":"Refarl Dan",
+        "genre":"Children",
+        "numOfPages":30,
+        "price":40,
+        "yearOfPublication":1998
+    },
+    {
+        "title":"Poetry Book",
+        "description":"Good poetry book",
+        "author":"Danis",
+        "genre":"Poetry",
+        "numOfPages":150,
+        "price":80,
+        "yearOfPublication":1888
+    },
+    {
+        "title":"Prose Book",
+        "description":"Good prose book",
+        "author":"Refarl Dan",
+        "genre":"Prose",
+        "numOfPages":200,
+        "price":60,
+        "yearOfPublication":2020
+    }
+]
