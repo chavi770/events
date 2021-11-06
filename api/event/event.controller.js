@@ -42,12 +42,7 @@ async function createEvent(req, res) {
 async function updateEvent(req, res) {
     try {
         //The object to update
-        var updateOBj = {
-            id: req.body._id,
-            title: req.body.title,
-            description: req.body.description,
-            date: req.body.date
-        }
+        var updateOBj = req.body;
         // Invoke the update in the db
         var result = await Event.findOneAndUpdate({
             _id: req.body._id

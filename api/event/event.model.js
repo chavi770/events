@@ -1,9 +1,11 @@
 var mongoose = require('mongoose');
 
 var eventSchema = new mongoose.Schema({
-    title:String,
+    name:String,
     description:String,
-    date:String,
+    start:String,
+    end:String,
+    color:String,
 });
 
 var Event = mongoose.model('event', eventSchema);
